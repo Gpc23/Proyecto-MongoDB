@@ -27,7 +27,7 @@ Y hemos realizado los siguientes apartados de ejercicios y consultas.
 
 ## CONSULTAS
 
-# 5 consultas de datos simples:
+## 5 consultas de datos simples:
 
 	1 Busca el personcapituloaje cuyo nombre es Zoom Encounters y tiene hora de salida del episodio (airtime) a las 10:45.
 
