@@ -10,19 +10,19 @@ Y hemos realizado los siguientes apartados de ejercicios y consultas.
 
 	2 Insertar con insertOne y insertMany varios documentos.
 
-	2.1 insertOne
-	2.2 insertMany
+		2.1 insertOne
+		2.2 insertMany
 
 	3 Eliminar documentos utilizando deleteOne y deleteMany
 
-	3.1 deleteOne
-	3.2 deleteMany
+		3.1 deleteOne
+		3.2 deleteMany
 
 	4 Actualizar documentos utilizando updateOne, updateMany y replaceOne
 
-	4.1 updateOne
-	4.2 updateMany
-	4.3 replaceOne
+		4.1 updateOne
+		4.2 updateMany
+		4.3 replaceOne
 
 
 ## CONSULTAS
@@ -39,7 +39,7 @@ Y hemos realizado los siguientes apartados de ejercicios y consultas.
 
 	5 Obtener de menor a mayor los airdate cuyo number este entre 25 y 39.
 
-# 3 consultas con arrays.
+## 3 consultas con arrays.
 
 6 Crear un array en el capitulo con id 1853149 donde podamos almacenar la crítica, que en este caso será "excellente", "buena" e "interesante".
 
@@ -47,7 +47,7 @@ Y hemos realizado los siguientes apartados de ejercicios y consultas.
 
 8 Eliminar el runtime y dejarlo como null del capitulo cuyo nombre es "The Scootbop Bop".
 
-# 3 consultas con documentos embebidos.
+## 3 consultas con documentos embebidos.
 
 9 Obtener todos los id que aparezcan entre las horas del airtime 10:30 y 12:30.
 
@@ -55,6 +55,6 @@ Y hemos realizado los siguientes apartados de ejercicios y consultas.
 
 11 Eliminar los capitulos que tengan por number 3 y 7.
 
-# 1 consulta de agrupación.
+## 1 consulta de agrupación.
 
 12 Muestra el mayor number de cada airtime igual a las 17:00.
