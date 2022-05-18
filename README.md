@@ -4,7 +4,7 @@ Como podemos ver en este proyecto hemos importado un json en nustra base de dato
 
 Y hemos realizado los siguientes apartados de ejercicios y consultas.
 
-## EJERCICIOS
+# EJERCICIOS
 
 	1 Importar con mongoimport el correspondiente json
 
@@ -25,7 +25,7 @@ Y hemos realizado los siguientes apartados de ejercicios y consultas.
 		4.3 replaceOne
 
 
-## CONSULTAS
+# CONSULTAS
 
 ## 5 consultas de datos simples:
 
